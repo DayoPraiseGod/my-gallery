@@ -21,8 +21,9 @@ html, body {
 
 h1 {
 	color: var(--primaryText);
-	font-size: 36px;
+	font-size: 46px;
 	font-family: 'Russo One', sans-serif;
+	font-weight: normal;
 }
 
 span {
